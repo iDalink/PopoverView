@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
   s.name             = "Popover"    #名称
   s.version          = "0.1.0"             #版本号
-  s.summary          = "A library to create PopupWindow View."     #简短介绍，下面是详细介绍
-  s.description      = "A library to create PopupWindow View."
+  s.summary          = "A library to create PopupWindow View."
+  s.description      = "A library to create PopupWindow View.It run on iOS."
   s.homepage         = "https://github.com/iDalink/PopoverView"  
   s.license          = { :type => 'zlib', :file => 'LICENSE' } 
   s.author           = { "Dalink" => "n400800@gmail.com" }
