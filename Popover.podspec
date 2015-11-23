@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'zlib', :file => 'LICENSE' } 
   s.author           = { "Dalink" => "n400800@gmail.com" }
   s.source           = { :git => "https://github.com/iDalink/PopoverView.git", :tag => "0.1.0" }
-  s.platform         = :ios, '7.0'            #支持的平台及版本
+  s.platform         = :ios            #支持的平台及版本
   s.requires_arc     = true                   #是否使用ARC，如果指定具体文件，则具体的问题使用ARC
  
   s.source_files     = 'Classes'
